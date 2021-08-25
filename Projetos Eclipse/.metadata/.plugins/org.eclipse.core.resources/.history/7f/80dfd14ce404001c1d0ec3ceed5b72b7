@@ -1,0 +1,19 @@
+import java.util.Scanner;
+
+public class ex1 {
+
+		Scanner input = new Scanner(System.in);
+
+		public int[] tamanhoMatriz(){
+			System.out.println("*-- Tamanho Matriz --*");
+			int [] vetor = new int[2];
+			System.out.println("Linhas: ");
+			vetor[0] = input.nextInt();
+			System.out.println("Colunas: ");
+			vetor[0] = 	input.nextInt();
+			return vetor;
+		}
+
+}
+
+

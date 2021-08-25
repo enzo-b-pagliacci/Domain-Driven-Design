@@ -1,0 +1,22 @@
+Nome:
+-carro
+
+Atributos:
+-rodas
+-lataria
+-elétrica
+-motor
+-mecânica
+
+Métodos:
+-acelerar
+-trocar de marcha
+-girar as rodas dianteiras
+-ligar luzes
+-buzinar
+-dar ré
+-ligar rádio
+-ligar ar-condicionado
+-regular temperatura do ar
+-trancar portas
+-destrancar portas

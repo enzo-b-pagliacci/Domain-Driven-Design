@@ -1,0 +1,15 @@
+Domain Driven Design - AULA 01
+
+-A biblioteca de um software é um conteudo 
+organizado para encontrar coisas prontas
+
+-Criador do Java foi a Sun MicroSystems
+
+-Escreve em java > compila pra bytecode > ro-
+dar em tudo
+
+
+-JVM = apenas a virtual machine (não funciona)
+ JRE = Java Runtime Enviroment - ambiente + bibliotecas (programa pra rodar apps em java)
+ JDK = Java Development Kit: JRE + ferramentas como compilador (Feito para programadores)
+
